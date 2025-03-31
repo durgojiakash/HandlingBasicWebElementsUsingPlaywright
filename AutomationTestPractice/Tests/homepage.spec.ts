@@ -2,7 +2,7 @@ import { homepagefunc } from "../BusinessKeywords/homepagefunc";
 
 import { expect, Page, test } from "@playwright/test";
 
-//Note:- This Project is represents handling different Web Elements and does not represent any Framework Type (Except POM) 
+//Note:- This Project represents handling different Web Elements and does not represent any Framework Type (Except POM) 
 
 test('First',async({page})=>{
 
