@@ -1,6 +1,8 @@
 import { Page } from '@playwright/test'
 import { homepageloc } from '../Locators/homepageloc';
 
+//Note:- This Project is represents handling different Web Elements and does not represent any Framework Type (Except POM) 
+
 export class homepagefunc {
 
     page: any;
